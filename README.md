@@ -33,15 +33,15 @@ The key aspects of this project include:
   ```bash
   git clone https://github.com/meric2/Chess-Game-Analysis/tree/main
   ```
-  
-- Install dependencies
-  ```bash
-  pip install -r requirements.txt
-  ```
-  
+
 - Start Jupyter notebook
   ```bash
   jupyter notebook
+  ```
+
+- Install dependencies
+  ```bash
+  pip install -r requirements.txt
   ```
   
 - Open `chess_analysis.ipynb` notebook and run all cells
