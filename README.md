@@ -31,7 +31,7 @@ The key aspects of this project include:
 
 - Clone the repository
   ```bash
-  git clone https://github.com/<username>/chess-prediction-spark.git
+  git clone https://github.com/meric2/Chess-Game-Analysis/tree/main
   ```
   
 - Install dependencies
