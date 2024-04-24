@@ -1,6 +1,6 @@
 # Chess Game Outcome Prediction using Apache Spark
 
-This project performs an in-depth analysis on a dataset of over 20,000 chess games from Lichess.org to uncover insights related to game outcomes and build machine learning models to predict match results.
+In this project, we conducted an in-depth analysis of a dataset containing over 20,000 chess games from Lichess.org. We utilized Apache Spark extensively during the exploratory data analysis (EDA) phase, leveraging its parallel processing capabilities and other advantages to uncover insights related to game outcomes and to build machine learning models for predicting match results.
 
 ## Project Overview
 
@@ -19,6 +19,11 @@ The key aspects of this project include:
 **Language**: Python  
 **Technologies**: Apache Spark, PySpark MLlib, Pandas, Matplotlib, Seaborn   
 **Environment**: Jupyter Notebook  
+
+## Team Members
+
+- [Berkay Yıldız](https://github.com/berykay)
+- [Meriç Aşık](https://github.com/meric2)
 
 ## Getting Started  
 
